@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>boa-java-web-app</finalName>
+		<finalName>boa-java-webapp</finalName>
 		
 		<plugins>
 			<plugin>
