@@ -98,19 +98,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.223.212.143:8081/repository/ebay-releases/</url>
+	      <url>http://18.223.212.143:8081/repository/boa-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.223.212.143:8081/repository/ebay-snapshot/</url>
+	      <url>http://18.223.212.143:8081/repository/boa-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app</finalName>
+		<finalName>boa-java-web-app</finalName>
 		
 		<plugins>
 			<plugin>
