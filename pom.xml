@@ -59,7 +59,7 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- compile dependencies .properties changed and distribution management changed and now and subsequently -->
+		<!-- compile dependencies .properties changed and distribution management changed and now and subsequently update -->
 
 		<dependency>
 			<groupId>org.springframework</groupId>
